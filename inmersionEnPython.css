@@ -10,10 +10,10 @@ SMALL.SCRIPTSIZE	{ font-size : smaller  }
 SMALL.FOOTNOTESIZE	{ font-size : small    }
 SMALL.SMALL		{  }
 BIG.LARGE		{  }
-BIG.XLARGE		{ font-size : large    }
+BIG.XLARGE		{ font-size : 200%    }
 BIG.XXLARGE		{ font-size : x-large  }
 BIG.HUGE		{ font-size : larger   }
-BIG.XHUGE		{ font-size : xx-large }
+BIG.XHUGE		{ font-size : 300% }
 
 /* heading styles */
 H1		{  }
